@@ -59,7 +59,7 @@ Languages and Tools:
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
 </a>
 <a href="https://www.katalon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Katalon-logo.png" alt="Katalon Studio" width="40" height="40"/>
+    <img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/10/Katalon-logo-change.png" alt="Katalon Studio" width="40" height="40"/>
 </a>
 <a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
