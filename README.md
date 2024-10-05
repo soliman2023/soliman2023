@@ -52,18 +52,18 @@ Languages and Tools:
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </a>
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
-    </a>
-    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-        <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
-    </a>
-    <a href="https://www.katalon.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Katalon-logo.png" alt="Katalon Studio" width="40" height="40"/>
-    </a>
-    <a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
-        <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
-    </a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+</a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+</a>
+<a href="https://www.katalon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Katalon-logo.png" alt="Katalon Studio" width="40" height="40"/>
+</a>
+<a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
+    <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
+</a>
 
 
 
