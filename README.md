@@ -9,32 +9,6 @@ I thrive on building efficient workflows, streamlining development processes, an
 🌱 Learning: Advanced automation testing techniques using Playwright & selenium and performance testing with JMeter.
 ⚡ Fun fact: I love solving coding challenges to keep my problem-solving skills sharp, and I’ve built tools to enhance coding practice.
 
-**Technical Expertise:**
-**Programming Languages:** JavaScript, Python, C++, Java HTML, CSS, React.js, Vue.js, Laravel.
-
-**Testing & QA Tools:**
-
-**Manual Testing:** Test Planning, Test Case Design, Defect Tracking, Test Documentation, UAT, Cross-Browser and Cross-Device Testing.
-
-**Automation Testing:** Selenium, Playwright, Katalon Studio, Robot Framework, TestNG, JUnit.
-
-**Performance Testing:** JMeter, LoadRunner.
-
-**API Testing:** Postman, SoapUI, REST-assured.
-
-**Databases:** MySQL, MongoDB, PostgreSQL.
-
-**CI/CD:** Jenkins, Travis CI, CircleCI.
-
-**Version Control:** Git, GitHub.
-
-**Operating Systems:** Linux, Unix, Ubuntu, Windows.
-
-Achievements:
-🏆 3rd place at Action with Africa (AWA) @ Enactus Global Competition.
-🏅 1st place in Innovation @ Enactus National Competition.
-🥇 1st place in Recycling @ Enactus National Competition.
-🥈 2nd place in Sustainability @ Enactus National Competition.
 
 <h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
