@@ -70,7 +70,7 @@ Languages and Tools:
     </a>
 </p>
 
-<h3 align="left">Tools & Technologies</h3>
+<h3 align="center">Tools & Technologies</h3>
 <p align="center">
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
@@ -86,7 +86,7 @@ Languages and Tools:
     </a>
 </p>
 
-<h3 align="left">Databases</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -96,7 +96,7 @@ Languages and Tools:
     </a>
 </p>
 
-<h3 align="left">Operating Systems/h3>
+<h3 align="center">Operating Systems/h3>
 <p align="center">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
