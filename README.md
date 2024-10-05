@@ -32,7 +32,7 @@ GitHub Stats
 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/soliman2023" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 Languages and Tools:
-<h3 align="left">Programming Languages and Tools:</h3>
+<h3 align="center">Programming Languages and Tools:</h3>
 <p align="center"> 
     <!-- Programming Languages -->
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
