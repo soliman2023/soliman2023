@@ -32,8 +32,8 @@ GitHub Stats
 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/soliman2023" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 Languages and Tools:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="left">Programming Languages and Tools:</h3>
+<p align="center"> 
     <!-- Programming Languages -->
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -54,7 +54,7 @@ Languages and Tools:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </a>
 </p>
-
+<h3 align="left">Testing & QA Tools:</h3>
 <p align="center">
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
@@ -67,5 +67,101 @@ Languages and Tools:
     </a>
     <a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
         <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
+    </a>
+</p>
+
+
+Here's your GitHub README.md file format with all the tools and technologies included in a visually appealing way:
+
+md
+Copy code
+<h1 align="center">Hi 👋, I'm Mostafa Ahmed Soliman</h1>
+<h3 align="center">QA Engineer & Full-Stack Developer | Passionate About Building Robust, Scalable Solutions</h3>
+
+<p align="center">
+    <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/soliman2023" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:mostafa.a.soliman00@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</p>
+
+---
+
+### 🔍 Currently working on:
+- Building a **multi-vendor ecommerce platform** using **Laravel** and **Vue.js**.
+
+### 🌱 Learning:
+- Advanced automation testing techniques using **Playwright** and performance testing with **JMeter**.
+
+### 📫 Contact:
+- [mostafa.a.soliman00@gmail.com](mailto:mostafa.a.soliman00@gmail.com)
+
+### ⚡ Fun fact:
+- I love solving coding challenges to keep my problem-solving skills sharp, and I’ve built tools to enhance coding practice.
+
+---
+
+## 🛠 Technical Expertise
+
+### Programming Languages
+<p align="left"> 
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C++" width="40" height="40"/>
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+    </a>
+</p>
+
+### Testing & QA Tools
+<p align="left">
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+    </a>
+    <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+        <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+    </a>
+    <a href="https://www.katalon.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Katalon-logo.png" alt="Katalon Studio" width="40" height="40"/>
+    </a>
+    <a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
+        <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
+    </a>
+</p>
+
+### Tools & Technologies
+<p align="left">
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    </a>
+</p>
+
+### Databases
+<p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     </a>
 </p>
