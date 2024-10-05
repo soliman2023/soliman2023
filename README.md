@@ -17,12 +17,6 @@ I'm a dedicated QA Engineer and Full-Stack Developer with hands-on experience in
 
 I thrive on building efficient workflows, streamlining development processes, and delivering innovative solutions in fast-paced, dynamic environments. My projects reflect my commitment to delivering software that not only meets but exceeds user expectations.
 
-🔍 Currently working on: Building a multi-vendor ecommerce platform using Laravel and Vue.js.
-
-🌱 Learning: Advanced automation testing techniques using Playwright & selenium and performance testing with JMeter.
-⚡ Fun fact: I love solving coding challenges to keep my problem-solving skills sharp, and I’ve built tools to enhance coding practice.
-
-
 <h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
     <p align="center">
