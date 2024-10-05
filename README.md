@@ -9,28 +9,26 @@ I thrive on building efficient workflows, streamlining development processes, an
 🌱 Learning: Advanced automation testing techniques using Playwright & selenium and performance testing with JMeter.
 ⚡ Fun fact: I love solving coding challenges to keep my problem-solving skills sharp, and I’ve built tools to enhance coding practice.
 
-Technical Expertise:
-Programming Languages
-Advanced: JavaScript, Python, C++, Java
-Proficient: HTML, CSS, React.js, Vue.js, Laravel
-Testing & QA Tools
-Manual Testing: Test Planning, Test Case Design, Defect Tracking, Test Documentation, UAT, Cross-Browser and Cross-Device Testing.
+**Technical Expertise:**
+**Programming Languages:** JavaScript, Python, C++, Java HTML, CSS, React.js, Vue.js, Laravel.
 
-Automation Testing: Selenium, Playwright, Katalon Studio, Robot Framework, TestNG, JUnit.
+**Testing & QA Tools:**
 
-Performance Testing: JMeter, LoadRunner.
+**Manual Testing:** Test Planning, Test Case Design, Defect Tracking, Test Documentation, UAT, Cross-Browser and Cross-Device Testing.
 
-Tools & Technologies.
+**Automation Testing:** Selenium, Playwright, Katalon Studio, Robot Framework, TestNG, JUnit.
 
-API Testing: Postman, SoapUI, REST-assured.
+**Performance Testing:** JMeter, LoadRunner.
 
-Databases: MySQL, MongoDB, PostgreSQL.
+**API Testing:** Postman, SoapUI, REST-assured.
 
-CI/CD: Jenkins, Travis CI, CircleCI.
+**Databases:** MySQL, MongoDB, PostgreSQL.
 
-Version Control: Git, GitHub.
+**CI/CD:** Jenkins, Travis CI, CircleCI.
 
-Operating Systems: Linux, Unix, Ubuntu, Windows.
+**Version Control:** Git, GitHub.
+
+**Operating Systems:** Linux, Unix, Ubuntu, Windows.
 
 Achievements:
 🏆 3rd place at Action with Africa (AWA) @ Enactus Global Competition.
