@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ahmed Soliman</h1> <h3 align="center">QA Engineer & Full-Stack Developer | Passionate About Building Robust, Scalable Solutions</h3> <p align="center"> <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/soliman2023" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="mailto:mostafa.a.soliman00@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+<h1 align="center">Hello 👋, I'm Mostafa Ahmed Soliman</h1>
+<h3 align="center">Detail-oriented QA Engineer & Full-Stack Developer | Committed to Crafting Robust, Scalable Solutions</h3>
+<p align="center">
+    <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/soliman2023" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:mostafa.a.soliman00@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+</p>
+
 About Me
 I'm a dedicated QA Engineer and Full-Stack Developer with hands-on experience in manual and automation testing and a strong foundation in full-stack development using the MERN stack. My expertise lies in developing scalable web applications and ensuring the delivery of high-quality software products through rigorous testing processes.
 
