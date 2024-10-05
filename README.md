@@ -5,7 +5,7 @@ I'm a dedicated QA Engineer and Full-Stack Developer with hands-on experience in
 I thrive on building efficient workflows, streamlining development processes, and delivering innovative solutions in fast-paced, dynamic environments. My projects reflect my commitment to delivering software that not only meets but exceeds user expectations.
 
 🔍 Currently working on: Building a multi-vendor ecommerce platform using Laravel and Vue.js.
-🌱 Learning: Advanced automation testing techniques using Playwright and performance testing with JMeter.
+🌱 Learning: Advanced automation testing techniques using Playwright & selenium and performance testing with JMeter.
 📫 Contact: mostafa.a.soliman00@gmail.com
 ⚡ Fun fact: I love solving coding challenges to keep my problem-solving skills sharp, and I’ve built tools to enhance coding practice.
 Technical Expertise
@@ -21,7 +21,8 @@ API Testing: Postman, SoapUI, REST-assured
 Databases: MySQL, MongoDB, PostgreSQL
 CI/CD: Jenkins, Travis CI, CircleCI
 Version Control: Git, GitHub
-Operating Systems: Linux, Unix, Ubuntu, Windows
+Operating Systems: Linux, Unix, Ubuntu, Windows.
+
 Achievements
 🏆 3rd place at Action with Africa (AWA) – Enactus Global Competition
 🏅 1st place in Innovation – Enactus National Competition
@@ -29,9 +30,9 @@ Achievements
 🥈 2nd place in Sustainability – Enactus National Competition
 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soliman2023&show_icons=true&theme=radical" alt="Mostafa's GitHub stats"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=soliman2023&theme=radical" alt="Mostafa's GitHub Streak"> </p>
-Connect with Me
+<p align="center">Connect with Me</p>
 <p align="center"> <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/soliman2023" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
-Languages and Tools:
+<p align="center">Languages and Tools:</p>
 <h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
     <p align="center">
