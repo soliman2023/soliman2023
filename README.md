@@ -29,8 +29,8 @@ Achievements:
 -🥇 1st place in Recycling – Enactus National Competition
 -🥈 2nd place in Sustainability – Enactus National Competition
 
-<p align="left">Languages and Tools: </p>
-<h3 align="left">Programming Languages and Tools:</h3>
+<p align="center">Languages and Tools: </p>
+<h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
     <p align="left">
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
