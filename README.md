@@ -34,6 +34,7 @@ Connect with Me
 Languages and Tools:
 <h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
+    <p>
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
@@ -91,3 +92,4 @@ Languages and Tools:
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
 </a>
+</p>
