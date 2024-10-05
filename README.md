@@ -55,7 +55,7 @@ Languages and Tools:
 </a>
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
     </a>
