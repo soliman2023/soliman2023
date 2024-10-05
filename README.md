@@ -14,21 +14,29 @@ Programming Languages
 Advanced: JavaScript, Python, C++, Java
 Proficient: HTML, CSS, React.js, Vue.js, Laravel
 Testing & QA Tools
-Manual Testing: Test Planning, Test Case Design, Defect Tracking, Test Documentation, UAT, Cross-Browser and Cross-Device Testing
-Automation Testing: Selenium, Playwright, Katalon Studio, Robot Framework, TestNG, JUnit
-Performance Testing: JMeter, LoadRunner
-Tools & Technologies
-API Testing: Postman, SoapUI, REST-assured
-Databases: MySQL, MongoDB, PostgreSQL
-CI/CD: Jenkins, Travis CI, CircleCI
-Version Control: Git, GitHub
+Manual Testing: Test Planning, Test Case Design, Defect Tracking, Test Documentation, UAT, Cross-Browser and Cross-Device Testing.
+
+Automation Testing: Selenium, Playwright, Katalon Studio, Robot Framework, TestNG, JUnit.
+
+Performance Testing: JMeter, LoadRunner.
+
+Tools & Technologies.
+
+API Testing: Postman, SoapUI, REST-assured.
+
+Databases: MySQL, MongoDB, PostgreSQL.
+
+CI/CD: Jenkins, Travis CI, CircleCI.
+
+Version Control: Git, GitHub.
+
 Operating Systems: Linux, Unix, Ubuntu, Windows.
 
 Achievements:
--🏆 3rd place at Action with Africa (AWA) @ Enactus Global Competition
--🏅 1st place in Innovation @ Enactus National Competition
--🥇 1st place in Recycling @ Enactus National Competition
--🥈 2nd place in Sustainability @ Enactus National Competition
+🏆 3rd place at Action with Africa (AWA) @ Enactus Global Competition.
+🏅 1st place in Innovation @ Enactus National Competition.
+🥇 1st place in Recycling @ Enactus National Competition.
+🥈 2nd place in Sustainability @ Enactus National Competition.
 
 <h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
