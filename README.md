@@ -24,10 +24,10 @@ Version Control: Git, GitHub
 Operating Systems: Linux, Unix, Ubuntu, Windows.
 
 Achievements:
--🏆 3rd place at Action with Africa (AWA) – Enactus Global Competition
--🏅 1st place in Innovation – Enactus National Competition
--🥇 1st place in Recycling – Enactus National Competition
--🥈 2nd place in Sustainability – Enactus National Competition
+-🏆 3rd place at Action with Africa (AWA) @ Enactus Global Competition
+-🏅 1st place in Innovation @ Enactus National Competition
+-🥇 1st place in Recycling @ Enactus National Competition
+-🥈 2nd place in Sustainability @ Enactus National Competition
 
 <h3 align="center">Programming Languages and Tools:</h3>
     <!-- Programming Languages -->
