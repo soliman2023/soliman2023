@@ -91,4 +91,3 @@ Languages and Tools:
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
 </a>
-
