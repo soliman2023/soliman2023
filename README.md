@@ -84,5 +84,3 @@ I thrive on building efficient workflows, streamlining development processes, an
 <h3 align = "center">GitHub Stats</h3>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soliman2023&show_icons=true&locale=en&layout=compact" alt="mostafa-soliman" /></p>
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soliman2023&theme=light" alt="Mostafa's GitHub Streak"> </p>
-<h3 align="center">Connect with Me </h3>
-<p align="center"> <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/soliman2023" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
