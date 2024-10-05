@@ -33,7 +33,6 @@ Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/mostafa-ahmed-soliman" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/soliman2023" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 Languages and Tools:
 <h3 align="center">Programming Languages and Tools:</h3>
-<p align="center"> 
     <!-- Programming Languages -->
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -53,9 +52,6 @@ Languages and Tools:
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </a>
-</p>
-<h3 align="left">Testing & QA Tools:</h3>
-<p align="center">
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
     </a>
@@ -68,10 +64,9 @@ Languages and Tools:
     <a href="https://www.blazemeter.com/" target="_blank" rel="noreferrer">
         <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="JMeter" width="40" height="40"/>
     </a>
-</p>
 
-<h3 align="center">Tools & Technologies</h3>
-<p align="center">
+
+
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
     </a>
@@ -84,20 +79,17 @@ Languages and Tools:
     <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
         <img src="https://static.soapui.org/images/soapui-logo.svg" alt="SoapUI" width="40" height="40"/>
     </a>
-</p>
 
-<h3 align="center">Databases</h3>
-<p align="center">
+
+
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     </a>
-</p>
 
-<h3 align="center">Operating Systems/h3>
-<p align="center">
+
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     </a>
@@ -107,4 +99,3 @@ Languages and Tools:
     <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
     </a>
-</p>
