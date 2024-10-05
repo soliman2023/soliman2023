@@ -22,24 +22,6 @@ Databases: MySQL, MongoDB, PostgreSQL
 CI/CD: Jenkins, Travis CI, CircleCI
 Version Control: Git, GitHub
 Operating Systems: Linux, Unix, Ubuntu, Windows
-Featured Projects
-🚀 Shtably – Home Maintenance App
-A mobile application designed to streamline home maintenance and repair services, connecting homeowners with service professionals.
-
-Impact: Improved service request resolution by 25%.
-Technologies: Node.js, Express.js, MySQL, Stripe, Flutter, HTML, CSS, Google Maps
-Demo: GitHub Repository
-🛒 Multi-vendor Ecommerce Platform
-A scalable multi-vendor ecommerce platform built from scratch, allowing seamless management of vendors and products.
-
-Impact: Increased user engagement by 15% and improved vendor management.
-Technologies: Laravel, Vue.js, MySQL, Stripe, HTML, CSS
-Demo: GitHub Repository
-💡 Codeforces Problem Randomizer
-A web tool designed for competitive programmers to enhance coding practice by randomly selecting problems from the Codeforces platform.
-
-Technologies: HTML, CSS, TypeScript
-Demo: Live Site
 Achievements
 🏆 3rd place at Action with Africa (AWA) – Enactus Global Competition
 🏅 1st place in Innovation – Enactus National Competition
