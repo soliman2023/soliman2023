@@ -75,7 +75,7 @@ Languages and Tools:
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </a>
 <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com.eg/imgres?q=soapui&imgurl=https%3A%2F%2Ff.hubspotusercontent20.net%2Fhubfs%2F2465122%2FImported_Blog_Media%2FSoapUI%402x-1.png&imgrefurl=https%3A%2F%2Fkatalon.com%2Fresources-center%2Fblog%2Fsoapui-alternatives-api-testing&docid=MGSQqTHvbML84M&tbnid=GO-cjAtdIRSvKM&vet=12ahUKEwiZzeTapviIAxVC6gIHHWvOHTgQM3oECBkQAA..i&w=872&h=270&hcb=2&ved=2ahUKEwiZzeTapviIAxVC6gIHHWvOHTgQM3oECBkQAA" alt="SoapUI" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQGSZs7VlpxD3A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1690469916161?e=2147483647&v=beta&t=nMUa9dn-lUmhTtrSm80U2D8WH9b3lmYsbu8Q1OOWvlY" alt="SoapUI" width="40" height="40"/>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
