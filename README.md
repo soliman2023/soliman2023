@@ -11,6 +11,7 @@
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soliman2023&label=Profile%20views&color=0e75b6&style=flat" alt="soliman2023" /> </p>
 
 About Me
 I'm a dedicated QA Engineer and Full-Stack Developer with hands-on experience in manual and automation testing and a strong foundation in full-stack development using the MERN stack. My expertise lies in developing scalable web applications and ensuring the delivery of high-quality software products through rigorous testing processes.
